@@ -1,12 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <meta charset="UTF-8">
-<title>Nicolas's capestone</title>
 <body>
     <h1>Nicolas Osagbobu Capstone Project.</h1>
 <img style=width 80% src="Screenshot 2024-07-24 193522.png"/>
